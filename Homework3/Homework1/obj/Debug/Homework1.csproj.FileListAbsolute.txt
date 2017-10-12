@@ -1,0 +1,32 @@
+c:\users\user.desktop-22a0eps\documents\visual studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.exe.config
+c:\users\user.desktop-22a0eps\documents\visual studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.exe
+c:\users\user.desktop-22a0eps\documents\visual studio 2015\Projects\Homework1\Homework1\bin\Debug\Homework1.pdb
+c:\users\user.desktop-22a0eps\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+c:\users\user.desktop-22a0eps\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.csproj.GenerateResource.Cache
+c:\users\user.desktop-22a0eps\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.exe
+c:\users\user.desktop-22a0eps\documents\visual studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.pdb
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1\Homework1\obj\Debug\Homework1.View.resources
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\obj\Debug\Homework1.exe
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\obj\Debug\Homework1.pdb
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\obj\Debug\Homework1.View.resources
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\obj\Debug\Homework1.csproj.GenerateResource.Cache
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\bin\Debug\Homework1.exe
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework1 - 複製\Homework1\bin\Debug\Homework1.pdb
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\obj\Debug\Homework1.exe
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\obj\Debug\Homework1.pdb
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\obj\Debug\Homework1.View.resources
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\obj\Debug\Homework1.csproj.GenerateResource.Cache
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\bin\Debug\Homework1.exe
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework2\Homework1\bin\Debug\Homework1.pdb
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\obj\Debug\Homework1.exe
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\obj\Debug\Homework1.pdb
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\bin\Debug\Homework1.exe
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\bin\Debug\Homework1.pdb
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\obj\Debug\Homework1.View.resources
+C:\Users\user.DESKTOP-22A0EPS\Documents\Visual Studio 2015\Projects\Homework3\Homework1\obj\Debug\Homework1.csproj.GenerateResource.Cache
